@@ -1,0 +1,300 @@
+No_overall	No_in	season	Title	Directed_by	Written_by	Original air date	Rating/rank
+1	1	"Give Me a Ring Sometime"	James Burrows	Glen Charles & Les Charles	September 30, 1982	9.6 / #60[rat1 1]
+2	2	"Sam's Women"	James Burrows	Earl Pomerantz	October 7, 1982	14.7 / #49[rat1 2]
+/ 19 share[rat1 3]
+3	3	"The Tortelli Tort"	James Burrows	Tom Reeder	October 14, 1982	11.1 / #63[rat1 4]
+4	4	"Sam at Eleven"	James Burrows	Glen Charles & Les Charles	October 21, 1982	11.1 / #62[rat1 5]
+5	5	"Coach's Daughter"	James Burrows	Ken Estin	October 28, 1982	11.0 / #66[rat1 6]
+6	6	"Any Friend of Diane's"	James Burrows	Ken Levine and David Isaacs	November 4, 1982	12.4 / #62[rat1 7]
+7	7	"Friends, Romans, Accountants"	James Burrows	Ken Levine and David Isaacs	November 11, 1982	13.6 / #50[rat1 8]
+8	8	"Truce or Consequences"	James Burrows	Ken Levine and David Isaacs	November 18, 1982	11.9 / #63[rat1 9]
+9	9	"Coach Returns to Action"	James Burrows	Earl Pomerantz	November 25, 1982	10.0 / #69[rat1 10]
+10	10	"Endless Slumper"	James Burrows	Sam Simon	December 2, 1982	12.7 / #57[rat1 11]
+11	11	"One for the Book"	James Burrows	Katherine Green	December 9, 1982	12.4 / #60[rat1 12]
+12	12	"The Spy Who Came In for a Cold One"	James Burrows	David Lloyd	December 16, 1982	12.1 / #64[rat1 13]
+13	13	"Now Pitching, Sam Malone"	James Burrows	Ken Levine and David Isaacs	January 6, 1983	14.8 / #56[rat1 14]
+14	14	"Let Me Count the Ways"	James Burrows	Heide Perlman	January 13, 1983	12.9 / #61[rat1 15]
+15	15	"Father Knows Last"	James Burrows	Heide Perlman	January 20, 1983	14.9 / #46[rat1 16]
+16	16	"The Boys in the Bar"	James Burrows	Ken Levine and David Isaacs	January 27, 1983	14.9 / #41[rat1 17]
+17	17	"Diane's Perfect Date"	James Burrows	David Lloyd	February 10, 1983	13.3 / #45[rat1 18]
+18	18	"No Contest"	James Burrows	Heide Perlman	February 17, 1983	15.9 / #49[rat1 19]
+19	19	"Pick a Con... Any Con"	James Burrows	David Angell	February 24, 1983	13.1 / #58[rat1 20]
+20	20	"Someone Single, Someone Blue"	James Burrows	David Angell	March 3, 1983	14.7 / #43[rat1 21]
+21	21	"Showdown, Part 1"	James Burrows	Glen Charles & Les Charles	March 24, 1983	13.6 / #51[rat1 22]
+22	22	"Showdown, Part 2"	James Burrows	Glen Charles & Les Charles	March 31, 1983	14.7 / #36[rat1 23]
+23	1	"Power Play"	James Burrows	Glen Charles & Les Charles	September 29, 1983	18.4 / 29 / #19[rat2 1]
+24	2	"Little Sister Don't Cha"	James Burrows	Heide Perlman	October 13, 1983	18.6 / 28 / #21[rat2 2]
+25	3	"Personal Business"	James Burrows	Tom Reeder	October 20, 1983	17.4 / 26 / #29[rat2 3]
+26	4	"Homicidal Ham"	James Burrows	David Lloyd	October 27, 1983	18.0 / 28 / #22[rat2 4]
+27	5	"Sumner's Return"	James Burrows	Michael J. Weithorn	November 3, 1983	15.3 / 23 / #34[rat2 5]
+28	6	"Affairs of the Heart"	James Burrows	Heide Perlman	November 10, 1983	18.1 / 26 / #24[rat2 6]
+29	7	"Old Flames"	James Burrows	David Angell	November 17, 1983	17.2 / 25 / #25[rat2 7]
+30	8	"Manager Coach"	James Burrows	Earl Pomerantz	November 24, 1983	14.2 / 25 / #42[rat2 8]
+31	9	"They Called Me Mayday"	James Burrows	David Angell	December 1, 1983	16.9 / 25 / #30[rat2 9]
+32	10	"How Do I Love Thee, Let Me Call You Back"	James Burrows	Earl Pomerantz	December 8, 1983	16.4 / 25 / #28[rat2 10]
+33	11	"Just Three Friends"	James Burrows	David Lloyd	December 15, 1983	16.0 / 26 / #34[rat2 11]
+34	12	"Where There's a Will..."	James Burrows	Nick Arnold	December 22, 1983	18.3 / 27 / #15[rat2 12]
+35	13	"Battle of the Exes"	James Burrows	Ken Estin and Sam Simon	January 5, 1984	19.6 / – / #20[rat2 13]
+36	14	"No Help Wanted"	James Burrows	Max Tash	January 12, 1984	17.3 / 26 / #29[rat2 14]
+37	15	"And Coachie Makes Three"	James Burrows	Heide Perlman	January 19, 1984	18.5 / – / #21[rat2 15]
+38	16	"Cliff's Rocky Moment"	James Burrows	David Lloyd	January 26, 1984	—
+39	17	"Fortune and Men's Weight"	James Burrows	Heide Perlman	February 2, 1984	13.1 / 19 / #51[rat2 16]
+40	18	"Snow Job"	James Burrows	David Angell	February 9, 1984	17.1 / 25 / #26[rat2 17]
+41	19	"Coach Buries a Grudge"	James Burrows	David Lloyd	February 16, 1984	14.6 / 21 / #33[rat2 18]
+42	20	"Norman's Conquest"	James Burrows	Lissa Levin	February 23, 1984	17.2 / 26 / #22[rat2 19]
+43	21	"I'll Be Seeing You, Part 1"	James Burrows	Glen Charles & Les Charles	May 3, 1984	13.9 / 21 / #32[rat2 20]
+44	22	"I'll Be Seeing You, Part 2"	James Burrows	Glen Charles & Les Charles	May 10, 1984	13.6 / 22 / #30[rat2 21]
+45	1	"Rebound, Part 1"	James Burrows	Glen Charles & Les Charles	September 27, 1984	20.7 / 32 / #7[rat3 1]
+46	2	"Rebound, Part 2"	James Burrows	Glen Charles & Les Charles	October 4, 1984	19.5 / 29 / #13[rat3 2]
+47	3	"I Call Your Name"	James Burrows	Peter Casey and David Lee	October 18, 1984	18.6 / 28 / #17[rat3 3]
+48	4	"Fairy Tales Can Come True"	James Burrows	Sam Simon	October 25, 1984	19.8 / 30 / #14[rat3 4]
+49	5	"Sam Turns the Other Cheek"	James Burrows	David Lloyd	November 1, 1984	17.8 / – / #18[rat3 5]
+50	6	"Coach in Love, Part 1"	James Burrows	David Angell	November 8, 1984	16.7 / 25 / #19[rat3 6]
+51	7	"Coach in Love, Part 2"	James Burrows	David Angell	November 15, 1984	19.2 / 29 / #15[rat3 7]
+52	8	"Diane Meets Mom"	James Burrows	David Lloyd	November 22, 1984	14.4 / – / #38[rat3 8]
+53	9	"An American Family"	James Burrows	Heide Perlman	November 29, 1984	20.5 / 30 / #15[rat3 9]
+54	10	"Diane's Allergy"	James Burrows	David Lloyd	December 6, 1984	20.0 / 17 / #20[rat3 10]
+55	11	"Peterson Crusoe"	James Burrows	David Angell	December 13, 1984	18.8 / 29 / #21[rat3 11]
+56	12	"A Ditch in Time"	James Burrows	Ken Estin	December 20, 1984	17.4 / – / #20[rat3 12]
+57	13	"Whodunit?"	James Burrows	Tom Reeder	January 3, 1985	18.4 / – / #21[rat3 13]
+58	14	"The Heart Is a Lonely Snipe Hunter"	James Burrows	Heide Perlman	January 10, 1985	19.9 / – / #18[rat3 14]
+59	15	"King of the Hill"	James Burrows	Elliot Shoenman	January 24, 1985	18.7 / 28 / #22[rat3 15]
+60	16	"Teacher's Pet"	James Burrows	Tom Reeder	January 31, 1985	20.6 /29 / #13[rat3 16]
+61	17	"The Mail Goes to Jail"	James Burrows	David Lloyd	February 7, 1985	18.2 / 26 / #22[rat3 17]
+62	18	"Bar Bet"	James Burrows	Jim Parker	February 14, 1985	21.3 / – / #9[rat3 18]
+63	19	"Behind Every Great Man"	James Burrows	Ken Levine and David Isaacs	February 21, 1985	22.3 / – / #9[rat3 19]
+64	20	"If Ever I Would Leave You"	James Burrows	Ken Levine and David Isaacs	February 28, 1985	19.9 / – / #16[rat3 20]
+65	21	"The Executive's Executioner"
+"Executive's Executioner Hines"[11]	James Burrows	Heide Perlman	March 7, 1985	22.9 / – / #5[rat3 21]
+66	22	"Cheerio, Cheers"	James Burrows	Sam Simon	April 11, 1985	20.6 / – / #8[rat3 22]
+67	23	"The Bartender's Tale"	James Burrows	Sam Simon	April 18, 1985	20.1 / – / #6[rat3 23]
+68	24	"The Belles of St. Clete's"	James Burrows	Ken Estin	May 2, 1985	19.7 / – / #4[rat3 24]
+69	25	"Rescue Me"	James Burrows	Ken Estin	May 9, 1985	17.9 / – / #13[rat3 25]
+70	1	"Birth, Death, Love and Rice"	James Burrows	Heide Perlman	September 26, 1985	26.0/#4/–[rat4 1]
+71	2	"Woody Goes Belly Up"	James Burrows	Heide Perlman	October 3, 1985	23.4/#5/20.1[rat4 2]
+72	3	"Someday My Prince Will Come"	James Burrows	Tom Seeley and Norm Gunzenhauser	October 17, 1985	23.5/#4/20.2[rat4 3]
+73	4	"The Groom Wore Clearasil"	James Burrows	Peter Casey and David Lee	October 24, 1985	20.9/#13/18.0[rat4 4]
+74	5	"Diane's Nightmare"	James Burrows	David Lloyd	October 31, 1985	24.1/#6/20.7[rat4 5]
+75	6	"I Will Gladly Pay You Tuesday"	James Burrows	Cheri Eichen and Bill Steinkellner	November 7, 1985	21.1/#13/18.2[rat4 6]
+76	7	"2 Good to Be 4 Real"	James Burrows	Peter Casey and David Lee	November 14, 1985	24.7/#4/21.2[rat4 7]
+77	8	"Love Thy Neighbor"	James Burrows	David Angell	November 21, 1985	21.9/#11/18.8[rat4 8]
+78	9	"From Beer to Eternity"	James Burrows	Peter Casey and David Lee	November 28, 1985	21.6/#10/18.6[rat4 9]
+79	10	"The Barstoolie"	James Burrows	Andy Cowan and David S. Williger	December 5, 1985	24.4/#5/21.0[rat4 10]
+80	11	"Don Juan Is Hell"	James Burrows	Phoef Sutton	December 12, 1985	24.0/#6/20.6[rat4 11]
+81	12	"Fools and Their Money"	James Burrows	Heide Perlman	December 19, 1985	23.1/#4/19.8[rat4 12]
+82	13	"Take My Shirt... Please"	James Burrows	David Lloyd	January 9, 1986	24.3/#5/20.9[rat4 13]
+83	14	"Suspicion"	James Burrows	Tom Reeder	January 16, 1986	25.4/#5/21.8[rat4 14]
+84	15	"The Triangle"	James Burrows	Susan Seeger	January 23, 1986	24.0/#7/20.6[rat4 15]
+85	16	"Cliffie's Big Score"	James Burrows	Heide Perlman	January 30, 1986	23.8/#5/–[rat4 16]
+86	17	"Second Time Around"	Thomas Lofaro	Cheri Eichen and Bill Steinkellner	February 6, 1986	24.7/#5/21.2[rat4 17]
+87	18	"The Peterson Principle"	James Burrows	Peter Casey and David Lee	February 13, 1986	23.9/#5/20.5[rat4 18]
+88	19	"Dark Imaginings"	James Burrows	David Angell	February 20, 1986	23.4/#6/20.1[rat4 19]
+89	20	"Save the Last Dance for Me"	James Burrows	Heide Perlman	February 27, 1986	26.0/#3/22.3[rat4 20]
+90	21	"Fear Is My Co-Pilot"	James Burrows	Cheri Eichen and Bill Steinkellner	March 13, 1986	23.5/#3/20.2[rat4 21]
+91	22	"Diane Chambers Day"	James Burrows	Kimberly Hill	March 20, 1986	26.2/#3/22.5[rat4 22]
+92	23	"Relief Bartender"	James Burrows	Miriam Trogdon	March 27, 1986	22.3/#6/19.2[rat4 23]
+93	24	"Strange Bedfellows, Part 1"	James Burrows	David Angell	May 1, 1986	23.9/#3/20.5[rat4 24]
+94	25	"Strange Bedfellows, Part 2"	James Burrows	David Angell	May 8, 1986	22.6/#4/19.4[rat4 25]
+95	26	"Strange Bedfellows, Part 3"	James Burrows	David Angell	May 15, 1986	24.4/#4/21.0[rat4 26]
+96	1	"The Proposal"	James Burrows	Peter Casey and David Lee	September 25, 1986	30.0 / – / –[rat5 1]
+97	2	"The Cape Cad"	James Burrows	Andy Cowan and David S. Williger	October 2, 1986	29.7 / 45 / #3[rat5 2]
+98	3	"Money Dearest"	James Burrows	Janet Leahy	October 9, 1986	26.4 / 38 / #3[rat5 3]
+99	4	"Abnormal Psychology"	James Burrows	Janet Leahy	October 16, 1986	29.8 / 44 / #3[rat5 4]
+100	5	"House of Horrors with Formal Dining and Used Brick"	James Burrows	David Angell	October 30, 1986	27.2 / 41 / #5[rat5 5]
+101	6	"Tan 'n' Wash"	James Burrows	Cheri Eichen and Bill Steinkellner	November 6, 1986	28.8 / – / –[rat5 6]
+102	7	"Young Dr. Weinstein"	James Burrows	Phoef Sutton	November 13, 1986	29.8 / 43 / #3[rat5 7]
+103	8	"Knights of the Scimitar"	James Burrows	Jeff Abugov	November 20, 1986	26.9 / 40 / #5[rat5 8]
+104	9	"Thanksgiving Orphans"	James Burrows	Cheri Eichen and Bill Steinkellner	November 27, 1986	21.7 / 38 / #6[rat5 9]
+105	10	"Everyone Imitates Art"	James Burrows	Heide Perlman	December 4, 1986	28.4 / 42 / #3[rat5 10]
+106	11	"The Book of Samuel"	James Burrows	Phoef Sutton	December 11, 1986	28.2 / – / –[rat5 11]
+107	12	"Dance, Diane, Dance"	James Burrows	Jeff Abugov	December 18, 1986	28.4 / -[rat5 12]
+108	13	"Chambers vs. Malone"	James Burrows	David Angell	January 8, 1987	28.2 / 41[rat5 13]
+109	14	"Diamond Sam"	James Burrows	Tom Reeder	January 15, 1987	30.3 / 43[rat5 14]
+110	15	"Spellbound"	James Burrows	Kimberly Hill	January 22, 1987	30.7 / 42[rat5 15]
+111	16	"Never Love a Goalie, Part 1"	James Burrows	Ken Levine and David Isaacs	January 29, 1987	30.3 / 43[rat5 16]
+112	17	"Never Love a Goalie, Part 2"	James Burrows	Ken Levine and David Isaacs	February 5, 1987	27.7 / 40[rat5 17]
+113	18	"One Last Fling"	James Burrows	Cheri Eichen and Bill Steinkellner	February 12, 1987	27.4 / 41[rat5 18]
+114	19	"Dog Bites Cliff"	James Burrows	Joanne Pagliaro	February 18, 1987	19.6 / -[rat5 19]
+115	20	"Dinner at Eight-ish"	James Burrows	Phoef Sutton	February 26, 1987	27.9 / 40[rat5 20]
+116	21	"Simon Says"	James Burrows	Peter Casey and David Lee	March 5, 1987	29.6 / 43[rat5 21]
+117	22	"The Godfather, Part III"	James Burrows	Chris Cluess and Stuart Kreisman	March 19, 1987	26.3 / 39[rat5 22]
+118	23	"Norm's First Hurrah"	Thomas Lofaro	Andy Cowan and David S. Williger	March 26, 1987	27.4 / 41[rat5 23]
+119	24	"Cheers: The Motion Picture"	Tim Berry	Phoef Sutton	April 2, 1987	27.9 / 43[rat5 24]
+120	25	"A House Is Not a Home"	James Burrows	Phoef Sutton	April 30, 1987	26.0 / 42[rat5 25]
+121	26	"I Do, Adieu"	James Burrows	Glen Charles & Les Charles	May 7, 1987	28.4 / 45[rat5 26]
+122	1	"Home Is the Sailor"	James Burrows	Glen Charles and Les Charles	September 24, 1987	28.4 / 44[rat6 1]
+123	2	"I on Sports"	James Burrows	Ken Levine and David Isaacs	October 1, 1987	26.1 / 41[rat6 2]
+124	3	"Little Carla, Happy at Last: Part 1"	James Burrows	Cheri Eichen and Bill Steinkellner	October 15, 1987	25.3 / 40[rat6 3]
+125	4	"Little Carla, Happy at Last: Part 2"	James Burrows	Cheri Eichen and Bill Steinkellner	October 22, 1987	22.8 / 34[rat6 4]
+126	5	"The Crane Mutiny"	James Burrows	David Angell	October 29, 1987	26.8 / 41[rat6 5]
+127	6	"Paint Your Office"	James Burrows	Peter Casey and David Lee	November 5, 1987	26.0 / 40[rat6 6]
+128	7	"The Last Angry Mailman"	James Burrows	Ken Levine and David Isaacs	November 12, 1987	26.4 / 40[rat6 7]
+129	8	"Bidding on the Boys"	Thomas Lofaro	David Lloyd	November 19, 1987	26.4 / 41[rat6 8]
+130	9	"Pudd'n Head Boyd"	James Burrows	Cheri Eichen and Bill Steinkellner	November 26, 1987	19.5 / 36[rat6 9]
+131	10	"A Kiss Is Still a Kiss"	James Burrows	David Lloyd	December 3, 1987	23.5 / 36[rat6 10]
+132	11	"My Fair Clavin"	James Burrows	Phoef Sutton	December 10, 1987	23.1 / 36[rat6 11]
+133	12	"Christmas Cheers"	James Burrows and Thomas Lofaro	Cheri Eichen and Bill Steinkellner	December 17, 1987	25.5 / 40[rat6 12]
+134	13	"Woody for Hire Meets Norman of the Apes"	Tim Berry	Phoef Sutton	January 7, 1988	28.1 / 41[rat6 13]
+135	14	"And God Created Woodman"	John Ratzenberger	Jeffrey Duteil	January 14, 1988	27.9 / 41[rat6 14]
+136	15	"Tale of Two Cuties"	Michael Zinberg	Cheri Eichen and Bill Steinkellner	January 21, 1988	26.9 / 40[rat6 15]
+137	16	"Yacht of Fools"	Thomas Lofaro	Phoef Sutton	February 4, 1988	24.9 / 37[rat6 16]
+138	17	"To All the Girls I've Loved Before"	James Burrows	Ken Levine and David Isaacs	February 11, 1988	24.7 / 36[rat6 17]
+139	18	"Let Sleeping Drakes Lie"	James Burrows	David Lloyd	February 18, 1988	19.4 / 28[rat6 18]
+140	19	"Airport V"	George Wendt	Ken Levine and David Isaacs	February 25, 1988	20.4 / 30[rat6 19]
+141	20	"The Sam in the Gray Flannel Suit"	Tim Berry	Cheri Eichen and Bill Steinkellner	March 3, 1988	25.9 / 39[rat6 20]
+142	21	"Our Hourly Bread"	Andy Ackerman	Sue Herring	March 10, 1988	24.9 / 38[rat6 21]
+143	22	"Slumber Party Massacred"	James Burrows	Phoef Sutton	March 24, 1988	25.1 / 40[rat6 22]
+144	23	"Bar Wars"	James Burrows	Ken Levine and David Isaacs	March 31, 1988	23.2 / –[rat6 23]
+145	24	"The Big Kiss-Off"	James Burrows	Ken Levine and David Isaacs	April 28, 1988	23.6 / 38[rat6 24]
+146	25	"Backseat Becky, Up Front"	James Burrows	Cheri Eichen and Bill Steinkellner	May 5, 1988	22.8 / 38[rat6 25]
+147	1	"How to Recede in Business"	James Burrows	David Angell	October 27, 1988	24.4 / 38[rat7 1]
+148	2	"Swear to God"	James Burrows	Tom Reeder	November 3, 1988	21.8 / 33[rat7 2]
+149	3	"Executive Sweet"	James Burrows	Phoef Sutton	November 10, 1988	23.5 / 35[rat7 3]
+150	4	"One Happy Chappy in a Snappy Serape"	James Burrows	Cheri Eichen and Bill Steinkellner	November 17, 1988	21.4 / 31[rat7 4]
+151	5	"Those Lips, Those Ice"	James Burrows	Peter Casey and David Lee	November 24, 1988	17.3 / 31[rat7 5]
+152	6	"Norm, Is That You?"	James Burrows	Cheri Eichen and Bill Steinkellner	December 8, 1988	23.7 / 37[rat7 6]
+153	7	"How to Win Friends and Electrocute People"	James Burrows	Phoef Sutton	December 15, 1988	23.7 / 37[rat7 7]
+154	8	"Jumping Jerks"	James Burrows	Ken Levine and David Isaacs	December 22, 1988	20.6 / 34[rat7 8]
+155	9	"Send in the Crane"	James Burrows	David Lloyd	January 5, 1989	25.1 / 37[rat7 9]
+156	10	"Bar Wars II: The Woodman Strikes Back"	James Burrows	Ken Levine and David Isaacs	January 12, 1989	25.4 / 38[rat7 10]
+157	11	"Adventures in Housesitting"	James Burrows	Patricia Niedzialek and Cecile Alch	January 19, 1989	22.7 / 34[rat7 11]
+158	12	"Please Mr. Postman"	James Burrows	Brian Pollack and Mert Rich	February 2, 1989	24.7 / 37[rat7 12]
+159	13	"Golden Boyd"	James Burrows	Cheri Eichen and Bill Steinkellner	February 6, 1989	17.3 / 25[rat7 13]
+160	14	"I Kid You Not"	James Burrows	Story by : Rick Beren	Teleplay by : Rod Burton	February 16, 1989	22.8 / 35[rat7 14]
+161	15	"Don't Paint Your Chickens"	James Burrows	Ken Levine and David Isaacs	February 23, 1989	23.3 / 35[rat7 15]
+162	16	"The Cranemakers"	Andy Ackerman	Phoef Sutton	March 2, 1989	24.3 / 37[rat7 16]
+163	17	"Hot Rocks"	James Burrows	Ken Levine and David Isaacs	March 16, 1989	22.7 / 36[rat7 17]
+164	18	"What's Up, Doc?"	James Burrows	Brian Pollack and Mert Rich	March 30, 1989	24.3 / 37[rat7 18]
+165	19	"The Gift of the Woodi"	James Burrows	Phoef Sutton	April 6, 1989	22.2 / 36[rat7 19]
+166	20	"Call Me Irresponsible"	James Burrows	Dan O'Shannon and Tom Anderson	April 13, 1989	22.3 / 36[rat7 20]
+167	21	"Sisterly Love"	James Burrows	David Lloyd	April 27, 1989	20.8 / 34[rat7 21]
+168	22	"The Visiting Lecher"	James Burrows	David Lloyd	May 4, 1989	20.8 / 33[rat7 22]
+169	1	"The Improbable Dream, Part 1"	James Burrows	Cheri Eichen and Bill Steinkellner	September 21, 1989	24.1 / 39 / 36.4 mil. / #3[rat8 1]
+170	2	"The Improbable Dream, Part 2"	James Burrows	Cheri Eichen and Bill Steinkellner	September 28, 1989	24.3 / 39 / 36.1 mil. / #3[rat8 2]
+171	3	"A Bar Is Born"	James Burrows	Phoef Sutton	October 12, 1989	22.4 / 37 / 33.6 mil. / #3[rat8 3]
+172	4	"How to Marry a Mailman"	James Burrows	Brian Pollack and Mert Rich	October 19, 1989	24.7 / 38 / 37.2 mil. / #1[rat8 4]
+173	5	"The Two Faces of Norm"	Andy Ackerman	Eugene B. Stein	October 26, 1989	24.1 / 39 / 35.7 mil. / #3[rat8 5]
+174	6	"The Stork Brings a Crane"	Andy Ackerman	David Lloyd	November 2, 1989	24.4 / 37 / 37.6 mil. / #3[rat8 6]
+175	7	"Death Takes a Holiday on Ice"	James Burrows	Ken Levine and David Isaacs	November 9, 1989	24.3 / 38 / 36.2 mil. / #2[rat8 7]
+176	8	"For Real Men Only"	James Burrows	David Pollock and Elias Davis	November 16, 1989	24.0 / 37 / 36.1 mil. / #4[rat8 8]
+177	9	"Two Girls for Every Boyd"	James Burrows	Dan O'Shannon and Tom Anderson	November 23, 1989	16.5 / 31 / 28.4 mil. / #13[rat8 9]
+178	10	"The Art of the Steal"	James Burrows	Sue Herring	November 30, 1989	25.4 / 40 / 37.1 mil. / #2[rat8 10]
+179	11	"Feeble Attraction"	Andy Ackerman	Dan O'Shannon and Tom Anderson	December 7, 1989	24.2 / 38 / 36.2 mil. / #2[rat8 11]
+180	12	"Sam Ahoy"	James Burrows	David Lloyd	December 14, 1989	22.5 / 36 / 33.3 mil. / #2[rat8 12]
+181	13	"Sammy and the Professor"	James Burrows	Brian Pollack and Mert Rich	January 4, 1990	24.2 / 36 / 35.8 mil. / #1[rat8 13]
+182	14	"What Is... Cliff Clavin?"	Andy Ackerman	Dan O'Shannon and Tom Anderson	January 18, 1990	24.7 / 37 / 37.7 mil. / #1[rat8 14]
+183	15	"Finally! Part 1"	James Burrows	Ken Levine and David Isaacs	January 25, 1990	25.0 / 37 / 37.9 mil. / #3[rat8 15]
+184	16	"Finally! Part 2"	James Burrows	Ken Levine and David Isaacs	February 1, 1990	22.7 / 34 / 33.4 mil. / #2[rat8 16]
+185	17	"Woody or Won't He"	Andy Ackerman	Brian Pollack and Mert Rich	February 8, 1990	22.8 / 35 / 34.5 mil. / #2[rat8 17]
+186	18	"Severe Crane Damage"	Andy Ackerman	Dan O'Shannon and Tom Anderson	February 15, 1990	23.3 / 35 / 35.2 mil. / #2[rat8 18]
+187	19	"Indoor Fun with Sammy and Robby"	Andy Ackerman	Phoef Sutton	February 22, 1990	23.6 / 36 / 35.8 mil. / #1[rat8 19]
+188	20	"50–50 Carla"	James Burrows	David Lloyd	March 8, 1990	23.4 / 36 / 34.4 mil. / #2[rat8 20]
+189	21	"Bar Wars III: The Return of Tecumseh"	James Burrows	Ken Levine and David Isaacs	March 15, 1990	22.1 / 35 / 32.6 mil. / #1[rat8 21]
+190	22	"Loverboyd"	James Burrows	Brian Pollack and Mert Rich	March 29, 1990	23.8 / 38 / 35.5 / #2[rat8 22]
+191	23	"The Ghost and Mrs. Lebec"	James Burrows	Dan Staley and Rob Long	April 12, 1990	19.7 / 33 / 30.1 mil. / #2[rat8 23]
+192	24	"Mr. Otis Regrets"	Andy Ackerman	Ken Levine and David Isaacs	April 19, 1990	21.9 / 35 / 32.9 mil. / #1[rat8 24]
+193	25	"Cry Hard"	James Burrows	Dan O'Shannon and Tom Anderson	April 26, 1990	21.2 / 34 / 31.8 mil. / #2[rat8 25]
+194	26	"Cry Harder"	James Burrows	Story by : Bill Steinkellner Teleplay by : Cheri Eichen, Bill Steinkellner and Phoef Sutton	May 3, 1990	21.1 / 33 / 30.8 mil. / #3[rat8 26]
+195	1	"Love Is a Really, Really, Perfectly Okay Thing"	James Burrows	Phoef Sutton	September 20, 1990	32.9
+196	2	"Cheers Fouls Out"	James Burrows	Larry Balmagia	September 27, 1990	28.4
+197	3	"Rebecca Redux"	James Burrows	Story by : Bill Steinkellner 
+Teleplay by : Phoef Sutton, Bill Steinkellner and Cheri Eichen	October 4, 1990	30.4
+198	4	"Where Nobody Knows Your Name"	Andy Ackerman	Dan O'Shannon and Tom Anderson	October 11, 1990	32.9
+199	5	"Ma Always Liked You Best"	Andy Ackerman	Dan O'Shannon and Tom Anderson	October 18, 1990	31.7
+200	6	"Grease"	James Burrows	Brian Pollack and Mert Rich	October 25, 1990	29.9
+201	7	"Breaking In Is Hard to Do"	Andy Ackerman	Ken Levine and David Isaacs	November 1, 1990	33.2
+202
+203	8
+9	"Cheers 200th Anniversary Special"
+(double-length episode)	James Burrows and Andy Ackerman	Cheri Eichen, Bill Steinkellner and Phoef Sutton	November 8, 1990	45.9
+204	10	"Bad Neighbor Sam"	James Burrows	Cheri Eichen and Bill Steinkellner	November 15, 1990	34.1
+205	11	"Veggie-Boyd"	James Burrows	Dan Staley and Rob Long	November 22, 1990	29.1
+206	12	"Norm and Cliff's Excellent Adventure"	James Burrows	Ken Levine and David Isaacs	December 6, 1990	32.7
+207	13	"Woody Interruptus"	James Burrows	Dan Staley and Rob Long	December 13, 1990	33.8
+208	14	"Honor Thy Mother"	James Burrows	Brian Pollack and Mert Rich	January 3, 1991	38.6
+209	15	"Achilles Hill"	Andy Ackerman	Ken Levine and David Isaacs	January 10, 1991	36.3
+210	16	"The Days of Wine and Neuroses"	James Burrows	Brian Pollack and Mert Rich	January 24, 1991	32.3
+211	17	"Wedding Bell Blues"	James Burrows	Dan O'Shannon and Tom Anderson	January 31, 1991	32.7
+212	18	"I'm Getting My Act Together and Sticking It in Your Face"	Andy Ackerman	Dan Staley and Rob Long	February 7, 1991	31.5
+213	19	"Sam Time Next Year"	James Burrows	Larry Balmagia	February 14, 1991	31.9
+214	20	"Crash of the Titans"	James Burrows	Dan Staley and Rob Long	February 21, 1991	33.3
+215	21	"It's a Wonderful Wife"	James Burrows	Sue Herring	February 28, 1991	35.9
+216	22	"Cheers Has Chili"	Andy Ackerman	Cheri Eichen, Bill Steinkellner and Phoef Sutton	March 14, 1991	30.3
+217	23	"Carla Loves Clavin"	James Burrows	Dan Staley and Rob Long	March 21, 1991	28.8
+218	24	"Pitch It Again, Sam"	James Burrows	Dan O'Shannon and Tom Anderson	March 28, 1991	30.8
+219	25	"Rat Girl"	James Burrows	Ken Levine and David Isaacs	April 4, 1991	33.4
+220	26	"Home Malone"	Andy Ackerman	Dan O'Shannon and Tom Anderson	April 25, 1991	27.7
+221	27	"Uncle Sam Wants You"	James Burrows	Dan Staley and Rob Long	May 2, 1991	31.3
+Season 10 (1991–92)
+For a more comprehensive list, see Cheers (season 10).
+No.
+overall	No. in
+season	Title	Directed by	Written by	Original air date	U.S viewers
+(millions) [18][19]
+222	1	"Baby Balk"	James Burrows	Dan O'Shannon and Tom Anderson	September 19, 1991	31.4
+223	2	"Get Your Kicks on Route 666"	James Burrows	Dan O'Shannon and Tom Anderson	September 26, 1991	30.3
+224	3	"Madame LaCarla"	Tom Moore	Phoef Sutton	October 3, 1991	29.6
+225	4	"The Norm Who Came to Dinner"	Tom Moore	Dan O'Shannon and Tom Anderson	October 10, 1991	27.8
+226	5	"Ma's Little Maggie"	James Burrows	Tracy Newman and Jonathan Stark	October 17, 1991	24.5
+227	6	"Unplanned Parenthood"	James Burrows	Dan Staley and Rob Long	October 24, 1991	25.3
+228	7	"Bar Wars V: The Final Judgment"	James Burrows	Ken Levine and David Isaacs	October 31, 1991	28.2
+229	8	"Where Have All the Floorboards Gone?"	James Burrows	Ken Levine and David Isaacs	November 7, 1991	29.3
+230	9	"Head Over Hill"	John Ratzenberger	Dan Staley and Rob Long	November 14, 1991	27.8
+231	10	"A Fine French Whine"	James Burrows	Dan Staley and Rob Long	November 21, 1991	29.2
+232	11	"I'm Okay, You're Defective"	James Burrows	Dan Staley and Rob Long	December 5, 1991	27.3
+233	12	"Go Make"	James Burrows	Phoef Sutton	December 12, 1991	27.5
+234	13	"Don't Shoot...I'm Only the Psychiatrist"	James Burrows	Kathy Ann Stumpe	January 2, 1992	30.0
+235	14	"No Rest for the Woody"	James Burrows	Tracy Newman and Jonathan Stark	January 9, 1992	24.6
+236	15	"My Son, the Father"	James Burrows	Dan Staley and Rob Long	January 16, 1992	26.7
+237	16	"One Hugs, the Other Doesn't"	James Burrows	Cheri Eichen and Bill Steinkellner	January 30, 1992	26.4
+238	17	"A Diminished Rebecca with a Suspended Cliff"	James Burrows	Dan O'Shannon and Tom Anderson	February 6, 1992	29.7
+239	18	"License to Hill"	James Burrows	Ken Levine and David Isaacs	February 13, 1992	22.6
+240	19	"Rich Man, Wood Man"	James Burrows	Daniel Palladino	February 20, 1992	21.9
+241	20	"Smotherly Love"	James Burrows	Kathy Ann Stumpe	February 27, 1992	26.7
+242	21	"Take Me Out of the Ball Game"	James Burrows	Kathy Ann Stumpe	March 26, 1992	23.9
+243	22	"Rebecca's Lover...Not"	James Burrows	Tracy Newman and Jonathan Stark	April 23, 1992	22.1
+244	23	"Bar Wars VI: This Time It's for Real"	Rick Beren	Ken Levine and David Isaacs	April 30, 1992	30.5
+245	24	"Heeeeere's...Cliffy!"	James Burrows	Ken Levine and David Isaacs	May 7, 1992	25.4
+246
+247	25
+26	"An Old-Fashioned Wedding"
+(double-length episode)	James Burrows	David Lloyd	May 14, 1992	32.9
+Season 11 (1992–93)
+For a more comprehensive list, see Cheers (season 11).
+No.
+overall	No. in
+season	Title	Directed by	Written by	Original air date	US viewers
+(millions)
+248	1	"The Little Match Girl"	James Burrows	Dan Staley and Rob Long	September 24, 1992	28.7
+249	2	"The Beer Is Always Greener"	James Burrows	Tom Leopold	October 1, 1992	24.8
+250	3	"The King of Beers"	John Ratzenberger	Dan O'Shannon	October 8, 1992	23.1
+251	4	"The Magnificent Six"	James Burrows	Sue Herring	October 22, 1992	20.6
+252	5	"Do Not Forsake Me O' My Postman"	James Burrows	Ken Levine and David Isaacs	October 29, 1992	24.0
+253	6	"Teaching with the Enemy"	James Burrows	Tom Anderson	November 5, 1992	28.5
+254	7	"The Girl in the Plastic Bubble"	James Burrows	Dan O'Shannon	November 12, 1992	29.6
+255	8	"Ill-Gotten Gaines"	James Burrows	Fred Graver	November 19, 1992	24.0
+256	9	"Feelings...Whoa, Whoa, Whoa"	Rick Beren	Kathy Ann Stumpe	December 3, 1992	22.9
+257	10	"Love Me, Love My Car"	James Burrows	David Lloyd	December 7, 1992	23.4
+258	11	"Daddy's Middle-Aged Girl"	James Burrows	Rebecca Parr Cioffi	December 10, 1992	21.4
+259	12	"Norm's Big Audit"	John Ratzenberger	Tom Leopold	January 14, 1993	25.9
+260	13	"Sunday Dinner"	James Burrows	Fred Graver	January 7, 1993	22.7
+261	14	"It's a Mad, Mad, Mad Bar"	James Burrows	Rebecca Parr Cioffi	January 21, 1993	25.4
+262	15	"Loathe and Marriage"	James Burrows	Ken Levine and David Isaacs	February 4, 1993	27.1
+263	16	"Is There a Doctor in the Howe?"	James Burrows	Kathy Ann Stumpe	February 11, 1993	28.4
+264	17	"The Bar Manager, the Shrink, His Wife and Her Lover"	James Burrows	Kathy Ann Stumpe	February 18, 1993	24.7
+265	18	"The Last Picture Show"	James Burrows	Fred Graver	February 25, 1993	28.0
+266	19	"Bar Wars VII: The Naked Prey"	James Burrows	Ken Levine and David Isaacs	March 18, 1993	27.5
+267	20	"Look Before You Sleep"	James Burrows	Rebecca Parr Cioffi	April 1, 1993	26.3
+268	21	"Woody Gets an Election"	James Burrows	Dan O'Shannon, Tom Anderson, Dan Staley and Rob Long	April 22, 1993	27.6
+269	22	"It's Lonely on the Top"	James Burrows	Heide Perlman	April 29, 1993	29.8
+270
+271	23
+24	"Rebecca Gaines, Rebecca Loses"
+(double-length episode)	James Burrows	David Lloyd	May 6, 1993	30.8
+272	25	"The Guy Can't Help It"	James Burrows	David Angell, Peter Casey and David Lee	May 13, 1993	29.5
+273
+274
+275	26
+27
+28	"One for the Road"
+(triple length series finale)	James Burrows	Glen Charles and Les Charles	May 20, 1993	80.4
